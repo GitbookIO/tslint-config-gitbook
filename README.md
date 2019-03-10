@@ -12,6 +12,6 @@ Add to your `tslint.json`:
 
 ```js
 {
-    "extends": "gitbook"
+    "extends": "tslint-config-gitbook"
 }
 ```
