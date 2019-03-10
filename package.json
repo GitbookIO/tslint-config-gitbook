@@ -1,6 +1,6 @@
 {
   "name": "tslint-config-gitbook",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "TSLint shared configuration for GitBook",
   "main": "index.js",
   "repository": "https://github.com/GitbookIO/tslint-config-gitbook",
