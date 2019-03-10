@@ -11,6 +11,6 @@ module.exports = {
     "rules": {
         "interface-name": false,
         "object-literal-sort-keys": false,
-        "prettier": [true, { "singleQuote": true }]
+        "prettier": [true, { "singleQuote": true, "tabWidth": 4 }]
     }
 };
