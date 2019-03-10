@@ -1,0 +1,21 @@
+{
+  "name": "tslint-config-gitbook",
+  "version": "0.0.0",
+  "description": "TSLint shared configuration for GitBook",
+  "main": "index.js",
+  "repository": "https://github.com/GitbookIO/tslint-config-gitbook",
+  "author": "Samy Pessé <samy@gitbook.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "tslint": "^5.13.1",
+    "typescript": "^3.3.3333"
+  },
+  "dependencies": {
+    "prettier": "^1.16.4",
+    "tslint-config-prettier": "^1.18.0",
+    "tslint-plugin-prettier": "^2.0.1"
+  },
+  "scripts": {
+    "test": "tslint ./spec/**/*.ts"
+  }
+}
