@@ -1,6 +1,6 @@
 /* tslint:disable no-console */
 
-function hello(name: string): string {
+function hello(name: string): void {
     console.log(`Hello ${name} !`);
 }
 
